@@ -1,0 +1,14 @@
+project:
+  type: book
+
+book:
+  title: "Test"
+  author: "Wouter van Atteveldt"
+  chapters:
+    - index.qmd
+
+format:
+  html:
+    theme: cosmo
+
+engine: knitr
